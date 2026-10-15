@@ -9,7 +9,7 @@ class AlosProjectApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) => MaterialApp(
     debugShowCheckedModeBanner: false,
-    title: 'Your Approved System Title',
+    title: 'Alos Project',
     initialRoute: '/',
     routes: {
       '/': (_) => const HomeScreen(),
